@@ -47,6 +47,3 @@ Lower values will surface more (and smaller/less common) itemsets at the cost of
 ## Data
 
 This implementation was tested against the [retail dataset](http://fimi.uantwerpen.be/data/) from the FIMI (Frequent Itemset Mining Implementations) repository, a common benchmark dataset for frequent itemset mining research. Download `retail.dat` and place it in the project root before running the script.
-
-
-[MIT](LICENSE) — feel free to use, modify, and share.
